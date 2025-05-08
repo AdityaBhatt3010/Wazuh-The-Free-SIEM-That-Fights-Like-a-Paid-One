@@ -4,6 +4,8 @@ As someone who's spent countless hours dissecting networks, scanning for vulnera
 
 In this article, I’ll walk you through Wazuh not as a textbook definition, but as a practical, real-world defense ally I've come to appreciate—and deploy.
 
+![Pic](https://github.com/user-attachments/assets/e732c613-ed7b-4018-86b0-bccf1c27b776) <br/>
+
 ---
 
 ## **What is Wazuh?**
